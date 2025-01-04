@@ -62,7 +62,8 @@ endmodule
 ![DE11DIA](https://github.com/user-attachments/assets/feb21de1-9425-4893-bbce-608267851300)
 
 **TIMING DIAGRAM FOR IP COUNTER**
-![DE11IP](https://github.com/user-attachments/assets/e17977f4-f693-4edb-946d-a74ebe2b00d3)
+
+![de11timing](https://github.com/user-attachments/assets/6942f4fe-23ce-4d20-ab30-c17518aec829)
 
 **TRUTH TABLE**
 ![TRUTHDE11](https://github.com/user-attachments/assets/9531253e-d5d4-4758-944f-8775e7616667)
